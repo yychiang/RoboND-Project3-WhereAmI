@@ -1,6 +1,6 @@
 # RoboND-Project3-WhereAmI
 
-The folder my_robot is a ROS package. Pleae git it:
+The folder my_robot is a ROS package. Please git it:
 ```
 $ git clone https://github.com/yychiang/RoboND-Project3-WhereAmI.git
 ```
